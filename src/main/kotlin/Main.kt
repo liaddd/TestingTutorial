@@ -12,7 +12,7 @@ fun addOneToNumber(number: Int): Int{
 }
 
 fun getAnimalsNames(numOfAnimals: Int): List<String>{
-    return List(numOfAnimals){
+    return List(10){
         "Animal no. ${it+1}"
     }
 }
