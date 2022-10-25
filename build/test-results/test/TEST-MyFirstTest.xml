@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MyFirstTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-19T19:47:32" hostname="Liads-MacBook-Pro.local" time="0.022">
+<testsuite name="MyFirstTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-19T19:48:44" hostname="Liads-MacBook-Pro.local" time="0.024">
   <properties/>
-  <testcase name="should_return_hundred_animals" classname="MyFirstTest" time="0.012"/>
-  <testcase name="should_add_one_to_number" classname="MyFirstTest" time="0.001"/>
+  <testcase name="should_return_hundred_animals" classname="MyFirstTest" time="0.014"/>
+  <testcase name="should_add_one_to_number" classname="MyFirstTest" time="0.0"/>
   <testcase name="should_not_be_equal" classname="MyFirstTest" time="0.0"/>
   <testcase name="should_be_animal_no_name" classname="MyFirstTest" time="0.008"/>
   <system-out><![CDATA[Animal no. 1
